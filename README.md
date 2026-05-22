@@ -1,4 +1,5 @@
 ![cover](/cover.png)
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
